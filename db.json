@@ -1,1 +1,11 @@
-
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Roman",
+      "email": "test@test.com",
+      "gender": "male",
+      "token": "f4k31t0k3n"
+    }
+  ]
+}
